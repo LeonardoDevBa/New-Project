@@ -3,6 +3,7 @@ def menu():
 1- CHECAR ANOTAÇÕES
 2- ADICIONAR ANOTAÇÃO
 3- EXCLUIR ANOTAÇÃO
+4- TODAS AS ANOTAÇÕES
 """)
     
 def criando ():
